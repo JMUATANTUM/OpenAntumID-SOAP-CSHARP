@@ -22,7 +22,7 @@ https://www.go4ict.be/DigiAntumID/
 
 Installation
 ============
-* Only need to activate SOAP in PHP (no database needed to try this code), SOAP check -> using phpinfo().
+* Copy source code into your C# project and add web-reference to the AntumID SOAP WSDL file
 * Aks for your AntumID SOAP Token-key to use this within your project, request for token GUID key at support@antumid.be 
 
 Notes
