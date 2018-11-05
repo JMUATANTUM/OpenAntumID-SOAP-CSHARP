@@ -22,7 +22,7 @@ https://www.go4ict.be/DigiAntumID/
 
 Installation
 ============
-* Copy source code into your C# project and add web-reference to the AntumID SOAP WSDL file
+* Copy source code into your C# project and add web-reference to the AntumID SOAP WSDL file ( https://www.antumid.be/services-digibyte/api/v1/messageService.wsdl )
 * Aks for your AntumID SOAP Token-key to use this within your project, request for token GUID key at support@antumid.be 
 
 Notes
