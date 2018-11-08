@@ -1,5 +1,5 @@
 # OpenAntumID-SOAP-CSHARP
-A SOAP based version of Open AntumID (DigiByte DigiID) For C# .NET (Windows Desktop APP example)
+A SOAP based version of Open AntumID (DigiByte DigiID) For C# .NET (**Windows Desktop APP example**)
 
 **OpenAntumID SOAP Authentication Open Protocol**
 
